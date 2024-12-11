@@ -7,7 +7,7 @@ function vault() {
   const num2 = 2024 - 2009;
   const num3 = 2 * 4 + 6;
   // output alert that contains the message and combination to the vault
-  alert(message + '\n' + num1 + ',' + num2 + ',' + num3);
-  console.log(message + '\n' + num1 + ',' + num2 + ',' + num3);
+  alert(message + '\n\n' + num1 + ',' + num2 + ',' + num3);
+  console.log(message + '\n\n' + num1 + ',' + num2 + ',' + num3);
 }
 vault();
